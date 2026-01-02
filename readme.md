@@ -6,4 +6,4 @@
 
 - System should have python installed in order to run the programs.
 
-- All programs could be run by command "python <filename>"
+- All programs could be run by command "python <<filename>>"
