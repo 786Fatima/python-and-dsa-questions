@@ -1,6 +1,6 @@
 # Reverse a string without using slicing
 
-def reverse_string(s):
+def reverse_string(s=''):
     rev_str = ''
     for char in s:
         rev_str = char + rev_str

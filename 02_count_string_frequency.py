@@ -1,6 +1,6 @@
 # Count frequency of characters in a string
 
-def count_string_frequency(s):
+def count_string_frequency(s=''):
     freq_count = {}
     for char in s:
         if char in freq_count:
